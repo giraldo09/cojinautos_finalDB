@@ -1,0 +1,834 @@
+{
+    "clientes": [
+        {
+            "Nombre": "Carlos Rojas",
+            "Teléfono": "3201234567",
+            "Correo": "carlos.rojas@mail.com",
+            "Dirección": "Calle 15 #10-25",
+            "FechaRegistro": "2024-01-05"
+        },
+        {
+            "Nombre": "Lucía Martínez",
+            "Teléfono": "3007894561",
+            "Correo": "lucia.martinez@mail.com",
+            "Dirección": "Carrera 9 #22-17",
+            "FechaRegistro": "2024-02-11"
+        },
+        {
+            "Nombre": "Miguel García",
+            "Teléfono": "3156781234",
+            "Correo": "miguel.garcia@mail.com",
+            "Dirección": "Avenida 8 #15-30",
+            "FechaRegistro": "2024-03-15"
+        },
+        {
+            "Nombre": "Laura Suárez",
+            "Teléfono": "3103457890",
+            "Correo": "laura.suarez@mail.com",
+            "Dirección": "Calle 19 #5-40",
+            "FechaRegistro": "2024-04-20"
+        },
+        {
+            "Nombre": "Daniel López",
+            "Teléfono": "3184567890",
+            "Correo": "daniel.lopez@mail.com",
+            "Dirección": "Carrera 12 #14-5",
+            "FechaRegistro": "2024-05-25"
+        },
+        {
+            "Nombre": "Sara Jiménez",
+            "Teléfono": "3129876543",
+            "Correo": "sara.jimenez@mail.com",
+            "Dirección": "Calle 4 #3-22",
+            "FechaRegistro": "2024-06-01"
+        },
+        {
+            "Nombre": "Andrés Moreno",
+            "Teléfono": "3134567890",
+            "Correo": "andres.moreno@mail.com",
+            "Dirección": "Carrera 21 #7-31",
+            "FechaRegistro": "2024-07-12"
+        },
+        {
+            "Nombre": "Mariana Torres",
+            "Teléfono": "3196543210",
+            "Correo": "mariana.torres@mail.com",
+            "Dirección": "Avenida 15 #9-40",
+            "FechaRegistro": "2024-08-18"
+        },
+        {
+            "Nombre": "Juan Ospina",
+            "Teléfono": "3143210987",
+            "Correo": "juan.ospina@mail.com",
+            "Dirección": "Calle 30 #20-18",
+            "FechaRegistro": "2024-09-05"
+        },
+        {
+            "Nombre": "Paola Díaz",
+            "Teléfono": "3006785432",
+            "Correo": "paola.diaz@mail.com",
+            "Dirección": "Carrera 8 #11-27",
+            "FechaRegistro": "2024-10-10"
+        },
+        {
+            "Nombre": "Carlos Quintero",
+            "Teléfono": "3117896543",
+            "Correo": "carlos.quintero@mail.com",
+            "Dirección": "Calle 22 #6-25",
+            "FechaRegistro": "2024-10-15"
+        },
+        {
+            "Nombre": "Verónica Sánchez",
+            "Teléfono": "3172345678",
+            "Correo": "veronica.sanchez@mail.com",
+            "Dirección": "Carrera 10 #12-20",
+            "FechaRegistro": "2024-11-04"
+        },
+        {
+            "Nombre": "Luis Vega",
+            "Teléfono": "3204561234",
+            "Correo": "luis.vega@mail.com",
+            "Dirección": "Calle 12 #8-30",
+            "FechaRegistro": "2024-11-10"
+        },
+        {
+            "Nombre": "Alejandra Ruiz",
+            "Teléfono": "3221234567",
+            "Correo": "alejandra.ruiz@mail.com",
+            "Dirección": "Carrera 13 #15-14",
+            "FechaRegistro": "2024-11-15"
+        },
+        {
+            "Nombre": "Oscar Figueroa",
+            "Teléfono": "3182345678",
+            "Correo": "oscar.figueroa@mail.com",
+            "Dirección": "Calle 5 #7-18",
+            "FechaRegistro": "2024-11-18"
+        },
+        {
+            "Nombre": "Natalia Herrera",
+            "Teléfono": "3167890123",
+            "Correo": "natalia.herrera@mail.com",
+            "Dirección": "Avenida 20 #10-12",
+            "FechaRegistro": "2024-11-21"
+        },
+        {
+            "Nombre": "Javier Ortiz",
+            "Teléfono": "3159876543",
+            "Correo": "javier.ortiz@mail.com",
+            "Dirección": "Calle 18 #16-5",
+            "FechaRegistro": "2024-11-25"
+        },
+        {
+            "Nombre": "Diana Cruz",
+            "Teléfono": "3124567890",
+            "Correo": "diana.cruz@mail.com",
+            "Dirección": "Carrera 19 #5-20",
+            "FechaRegistro": "2024-11-29"
+        },
+        {
+            "Nombre": "Manuel Pardo",
+            "Teléfono": "3137891234",
+            "Correo": "manuel.pardo@mail.com",
+            "Dirección": "Calle 9 #11-22",
+            "FechaRegistro": "2024-12-02"
+        },
+        {
+            "Nombre": "Carmen Rincón",
+            "Teléfono": "3191234567",
+            "Correo": "carmen.rincon@mail.com",
+            "Dirección": "Avenida 7 #14-30",
+            "FechaRegistro": "2024-12-05"
+        }
+    ],
+    "employes": [
+        {
+            "Nombre": "Carlos Pérez",
+            "Puesto": "Tapicero Principal",
+            "Teléfono": "3214567890",
+            "Correo": "carlos.perez@email.com",
+            "FechaContratación": "2023-01-15"
+        },
+        {
+            "Nombre": "Ana Rodríguez",
+            "Puesto": "Asistente de Tapicería",
+            "Teléfono": "3101234567",
+            "Correo": "ana.rodriguez@email.com",
+            "FechaContratación": "2023-03-10"
+        },
+        {
+            "Nombre": "Luis Gómez",
+            "Puesto": "Cortador de Tela",
+            "Teléfono": "3156789123",
+            "Correo": "luis.gomez@email.com",
+            "FechaContratación": "2023-04-22"
+        },
+        {
+            "Nombre": "María Martínez",
+            "Puesto": "Encargada de Costura",
+            "Teléfono": "3165432187",
+            "Correo": "maria.martinez@email.com",
+            "FechaContratación": "2023-06-15"
+        },
+        {
+            "Nombre": "Jorge Ramírez",
+            "Puesto": "Auxiliar de Limpieza",
+            "Teléfono": "3112345678",
+            "Correo": "jorge.ramirez@email.com",
+            "FechaContratación": "2023-07-25"
+        },
+        {
+            "Nombre": "Paola Herrera",
+            "Puesto": "Ayudante de Taller",
+            "Teléfono": "3178901234",
+            "Correo": "paola.herrera@email.com",
+            "FechaContratación": "2023-08-01"
+        },
+        {
+            "Nombre": "Camila Díaz",
+            "Puesto": "Supervisora de Calidad",
+            "Teléfono": "3123456789",
+            "Correo": "camila.diaz@email.com",
+            "FechaContratación": "2023-09-10"
+        },
+        {
+            "Nombre": "Sofía Sánchez",
+            "Puesto": "Cosedora",
+            "Teléfono": "3198765432",
+            "Correo": "sofia.sanchez@email.com",
+            "FechaContratación": "2023-09-18"
+        },
+        {
+            "Nombre": "Pedro Suárez",
+            "Puesto": "Montador de Estructuras",
+            "Teléfono": "3181234567",
+            "Correo": "pedro.suarez@email.com",
+            "FechaContratación": "2023-10-05"
+        },
+        {
+            "Nombre": "Claudia Ruiz",
+            "Puesto": "Atención al Cliente",
+            "Teléfono": "3112348795",
+            "Correo": "claudia.ruiz@email.com",
+            "FechaContratación": "2023-11-10"
+        },
+        {
+            "Nombre": "Juan Gómez",
+            "Puesto": "Encargado de Materiales",
+            "Teléfono": "3196541230",
+            "Correo": "juan.gomez@email.com",
+            "FechaContratación": "2023-12-15"
+        },
+        {
+            "Nombre": "Isabel Herrera",
+            "Puesto": "Encargada de Inventario",
+            "Teléfono": "3157891234",
+            "Correo": "isabel.herrera@email.com",
+            "FechaContratación": "2024-01-04"
+        },
+        {
+            "Nombre": "Manuel Martínez",
+            "Puesto": "Técnico de Reparación",
+            "Teléfono": "3102345679",
+            "Correo": "manuel.martinez@email.com",
+            "FechaContratación": "2024-02-07"
+        },
+        {
+            "Nombre": "Laura Ramírez",
+            "Puesto": "Especialista en Detallado",
+            "Teléfono": "3204567891",
+            "Correo": "laura.ramirez@email.com",
+            "FechaContratación": "2024-03-11"
+        },
+        {
+            "Nombre": "Mónica Díaz",
+            "Puesto": "Auxiliar de Tapicería",
+            "Teléfono": "3175674321",
+            "Correo": "monica.diaz@email.com",
+            "FechaContratación": "2024-04-09"
+        },
+        {
+            "Nombre": "Ricardo Morales",
+            "Puesto": "Operador de Máquinas",
+            "Teléfono": "3127891234",
+            "Correo": "ricardo.morales@email.com",
+            "FechaContratación": "2024-05-20"
+        },
+        {
+            "Nombre": "Javier Torres",
+            "Puesto": "Encargado de Corte de Espuma",
+            "Teléfono": "3182345678",
+            "Correo": "javier.torres@email.com",
+            "FechaContratación": "2024-06-12"
+        },
+        {
+            "Nombre": "Diego Fernández",
+            "Puesto": "Tapicero Junior",
+            "Teléfono": "3183456789",
+            "Correo": "diego.fernandez@email.com",
+            "FechaContratación": "2024-07-05"
+        },
+        {
+            "Nombre": "Daniela Ruiz",
+            "Puesto": "Especialista en Pintura",
+            "Teléfono": "3199876543",
+            "Correo": "daniela.ruiz@email.com",
+            "FechaContratación": "2024-08-16"
+        },
+        {
+            "Nombre": "Felipe Álvarez",
+            "Puesto": "Auxiliar Logístico",
+            "Teléfono": "3141234567",
+            "Correo": "felipe.alvarez@email.com",
+            "FechaContratación": "2024-09-03"
+        }
+    ],
+    "suppliers": [
+        {
+            "Nombre": "Textiles Manizales",
+            "Teléfono": "3109876543",
+            "Correo": "contacto@textilesmanizales.com",
+            "Dirección": "Calle 22 #5-67"
+        },
+        {
+            "Nombre": "Espumas y Más",
+            "Teléfono": "3112345678",
+            "Correo": "ventas@espumasyplus.com",
+            "Dirección": "Carrera 8 #10-12"
+        },
+        {
+            "Nombre": "Tapicería Colombia",
+            "Teléfono": "3204567890",
+            "Correo": "info@tapicol.com",
+            "Dirección": "Avenida 15 #14-20"
+        },
+        {
+            "Nombre": "Hilos del Sur",
+            "Teléfono": "3127890123",
+            "Correo": "servicio@hilosdelsur.com",
+            "Dirección": "Carrera 25 #8-45"
+        },
+        {
+            "Nombre": "Cueros y Pieles",
+            "Teléfono": "3198765432",
+            "Correo": "ventas@cuerosy.pieles.com",
+            "Dirección": "Calle 30 #18-33"
+        },
+        {
+            "Nombre": "Materiales Zapata",
+            "Teléfono": "3171234569",
+            "Correo": "contacto@materialeszapata.com",
+            "Dirección": "Carrera 4 #12-14"
+        },
+        {
+            "Nombre": "FoamExpress",
+            "Teléfono": "3213456789",
+            "Correo": "soporte@foamexpress.com",
+            "Dirección": "Avenida 3 #20-60"
+        },
+        {
+            "Nombre": "Puntadas Finas",
+            "Teléfono": "3102345678",
+            "Correo": "ventas@puntadasfinas.com",
+            "Dirección": "Carrera 17 #9-32"
+        },
+        {
+            "Nombre": "Corte Preciso",
+            "Teléfono": "3145678901",
+            "Correo": "servicio@cortepreciso.com",
+            "Dirección": "Calle 50 #3-18"
+        },
+        {
+            "Nombre": "Tela y Hogar",
+            "Teléfono": "3156789012",
+            "Correo": "contacto@telayhogar.com",
+            "Dirección": "Avenida 7 #21-22"
+        },
+        {
+            "Nombre": "Hermanos Gutiérrez",
+            "Teléfono": "3167890123",
+            "Correo": "ventas@hermanosgutierrez.com",
+            "Dirección": "Calle 8 #15-30"
+        },
+        {
+            "Nombre": "Textiles del Norte",
+            "Teléfono": "3178901234",
+            "Correo": "info@textilesnorte.com",
+            "Dirección": "Carrera 9 #10-20"
+        },
+        {
+            "Nombre": "Telas Rápidas",
+            "Teléfono": "3123456789",
+            "Correo": "contacto@telasrapidas.com",
+            "Dirección": "Calle 12 #20-12"
+        },
+        {
+            "Nombre": "Cueros Premium",
+            "Teléfono": "3192345670",
+            "Correo": "servicio@cuerospremium.com",
+            "Dirección": "Avenida 4 #14-19"
+        },
+        {
+            "Nombre": "Industria Tapicera",
+            "Teléfono": "3185678901",
+            "Correo": "ventas@indtapicera.com",
+            "Dirección": "Carrera 13 #7-40"
+        },
+        {
+            "Nombre": "Plásticos Tapicería",
+            "Teléfono": "3114567890",
+            "Correo": "soporte@plasticostap.com",
+            "Dirección": "Calle 15 #9-22"
+        },
+        {
+            "Nombre": "Cosidos y Más",
+            "Teléfono": "3136789012",
+            "Correo": "info@cosidosymas.com",
+            "Dirección": "Avenida 19 #11-20"
+        },
+        {
+            "Nombre": "TelaShop",
+            "Teléfono": "3209876543",
+            "Correo": "ventas@telashop.com",
+            "Dirección": "Carrera 18 #15-25"
+        },
+        {
+            "Nombre": "EspumaMax",
+            "Teléfono": "3224567890",
+            "Correo": "servicio@espumamax.com",
+            "Dirección": "Avenida 8 #6-18"
+        },
+        {
+            "Nombre": "Suministros Tapiceros",
+            "Teléfono": "3147890123",
+            "Correo": "contacto@suministap.com",
+            "Dirección": "Calle 7 #5-10"
+        }
+    ],
+    "products": [
+        {
+            "Nombre": "Tela de Microfibra",
+            "Tipo": "Tela",
+            "Stock": 50,
+            "Precio": 20000,
+            "IDProveedor": 1
+        },
+        {
+            "Nombre": "Espuma Alta Densidad",
+            "Tipo": "Espuma",
+            "Stock": 30,
+            "Precio": 35000,
+            "IDProveedor": 2
+        },
+        {
+            "Nombre": "Cuero Sintético",
+            "Tipo": "Cuero",
+            "Stock": 40,
+            "Precio": 50000,
+            "IDProveedor": 3
+        },
+        {
+            "Nombre": "Hilo Reforzado",
+            "Tipo": "Hilo",
+            "Stock": 100,
+            "Precio": 5000,
+            "IDProveedor": 4
+        },
+        {
+            "Nombre": "Tela de Terciopelo",
+            "Tipo": "Tela",
+            "Stock": 25,
+            "Precio": 25000,
+            "IDProveedor": 5
+        },
+        {
+            "Nombre": "Espuma Suave",
+            "Tipo": "Espuma",
+            "Stock": 60,
+            "Precio": 30000,
+            "IDProveedor": 6
+        },
+        {
+            "Nombre": "Cuero Natural",
+            "Tipo": "Cuero",
+            "Stock": 15,
+            "Precio": 80000,
+            "IDProveedor": 7
+        },
+        {
+            "Nombre": "Grapas Industriales",
+            "Tipo": "Accesorio",
+            "Stock": 200,
+            "Precio": 1500,
+            "IDProveedor": 8
+        },
+        {
+            "Nombre": "Tela Antifluido",
+            "Tipo": "Tela",
+            "Stock": 35,
+            "Precio": 22000,
+            "IDProveedor": 9
+        },
+        {
+            "Nombre": "Pegamento de Contacto",
+            "Tipo": "Adhesivo",
+            "Stock": 75,
+            "Precio": 12000,
+            "IDProveedor": 10
+        },
+        {
+            "Nombre": "Vinilo Decorativo",
+            "Tipo": "Vinilo",
+            "Stock": 45,
+            "Precio": 18000,
+            "IDProveedor": 11
+        },
+        {
+            "Nombre": "Relleno de Poliéster",
+            "Tipo": "Relleno",
+            "Stock": 60,
+            "Precio": 15000,
+            "IDProveedor": 12
+        },
+        {
+            "Nombre": "Tela de Lona",
+            "Tipo": "Tela",
+            "Stock": 20,
+            "Precio": 30000,
+            "IDProveedor": 13
+        },
+        {
+            "Nombre": "Fieltro Adhesivo",
+            "Tipo": "Fieltro",
+            "Stock": 50,
+            "Precio": 12000,
+            "IDProveedor": 14
+        },
+        {
+            "Nombre": "Cuero Vinílico",
+            "Tipo": "Cuero",
+            "Stock": 30,
+            "Precio": 60000,
+            "IDProveedor": 15
+        },
+        {
+            "Nombre": "Tijeras Industriales",
+            "Tipo": "Herramienta",
+            "Stock": 20,
+            "Precio": 25000,
+            "IDProveedor": 16
+        },
+        {
+            "Nombre": "Espuma para Sillas",
+            "Tipo": "Espuma",
+            "Stock": 45,
+            "Precio": 32000,
+            "IDProveedor": 17
+        },
+        {
+            "Nombre": "Hilo de Nylon",
+            "Tipo": "Hilo",
+            "Stock": 150,
+            "Precio": 4500,
+            "IDProveedor": 18
+        },
+        {
+            "Nombre": "Tela de Algodón",
+            "Tipo": "Tela",
+            "Stock": 40,
+            "Precio": 27000,
+            "IDProveedor": 19
+        },
+        {
+            "Nombre": "Adhesivo Especial para Cuero",
+            "Tipo": "Adhesivo",
+            "Stock": 30,
+            "Precio": 20000,
+            "IDProveedor": 20
+        }
+    ],
+    "services": [
+        {
+            "IDCliente": 1,
+            "Tipo": "Tapizado de Sillas",
+            "Fecha": "2024-01-12",
+            "Material": "Cuero Sintético",
+            "Costo": 150000,
+            "IDEmpleado": 1
+        },
+        {
+            "IDCliente": 2,
+            "Tipo": "Reparación de Sofá",
+            "Fecha": "2024-02-05",
+            "Material": "Tela de Microfibra",
+            "Costo": 200000,
+            "IDEmpleado": 2
+        },
+        {
+            "IDCliente": 3,
+            "Tipo": "Tapizado de Asientos de Carro",
+            "Fecha": "2024-03-18",
+            "Material": "Cuero Natural",
+            "Costo": 350000,
+            "IDEmpleado": 3
+        },
+        {
+            "IDCliente": 4,
+            "Tipo": "Renovación de Cojines",
+            "Fecha": "2024-04-10",
+            "Material": "Espuma Alta Densidad",
+            "Costo": 120000,
+            "IDEmpleado": 4
+        },
+        {
+            "IDCliente": 5,
+            "Tipo": "Tapizado de Paredes",
+            "Fecha": "2024-05-22",
+            "Material": "Tela Antifluido",
+            "Costo": 220000,
+            "IDEmpleado": 5
+        },
+        {
+            "IDCliente": 6,
+            "Tipo": "Reparación de Cabecero",
+            "Fecha": "2024-06-13",
+            "Material": "Vinilo Decorativo",
+            "Costo": 180000,
+            "IDEmpleado": 6
+        },
+        {
+            "IDCliente": 7,
+            "Tipo": "Tapizado de Muebles",
+            "Fecha": "2024-07-01",
+            "Material": "Tela de Terciopelo",
+            "Costo": 250000,
+            "IDEmpleado": 7
+        },
+        {
+            "IDCliente": 8,
+            "Tipo": "Arreglo de Asientos de Barco",
+            "Fecha": "2024-07-25",
+            "Material": "Cuero Vinílico",
+            "Costo": 400000,
+            "IDEmpleado": 8
+        },
+        {
+            "IDCliente": 9,
+            "Tipo": "Relleno de Almohadones",
+            "Fecha": "2024-08-14",
+            "Material": "Relleno de Poliéster",
+            "Costo": 90000,
+            "IDEmpleado": 9
+        },
+        {
+            "IDCliente": 10,
+            "Tipo": "Tapizado de Taburetes",
+            "Fecha": "2024-09-09",
+            "Material": "Tela de Lona",
+            "Costo": 130000,
+            "IDEmpleado": 10
+        },
+        {
+            "IDCliente": 11,
+            "Tipo": "Reparación de Tapiz de Oficina",
+            "Fecha": "2024-09-29",
+            "Material": "Cuero Sintético",
+            "Costo": 190000,
+            "IDEmpleado": 11
+        },
+        {
+            "IDCliente": 12,
+            "Tipo": "Renovación de Puffs",
+            "Fecha": "2024-10-02",
+            "Material": "Espuma Suave",
+            "Costo": 170000,
+            "IDEmpleado": 12
+        },
+        {
+            "IDCliente": 13,
+            "Tipo": "Instalación de Forros",
+            "Fecha": "2024-10-11",
+            "Material": "Tela de Algodón",
+            "Costo": 140000,
+            "IDEmpleado": 13
+        },
+        {
+            "IDCliente": 14,
+            "Tipo": "Tapizado de Cabeceras",
+            "Fecha": "2024-10-17",
+            "Material": "Tela de Microfibra",
+            "Costo": 230000,
+            "IDEmpleado": 14
+        },
+        {
+            "IDCliente": 15,
+            "Tipo": "Cambio de Tela en Sofá",
+            "Fecha": "2024-10-20",
+            "Material": "Tela Antifluido",
+            "Costo": 260000,
+            "IDEmpleado": 15
+        },
+        {
+            "IDCliente": 16,
+            "Tipo": "Ajuste de Tapiz de Coche",
+            "Fecha": "2024-10-22",
+            "Material": "Cuero Natural",
+            "Costo": 370000,
+            "IDEmpleado": 16
+        },
+        {
+            "IDCliente": 17,
+            "Tipo": "Reparación de Asientos de Bar",
+            "Fecha": "2024-10-24",
+            "Material": "Tela de Terciopelo",
+            "Costo": 210000,
+            "IDEmpleado": 17
+        },
+        {
+            "IDCliente": 18,
+            "Tipo": "Instalación de Protectores",
+            "Fecha": "2024-10-26",
+            "Material": "Vinilo Decorativo",
+            "Costo": 100000,
+            "IDEmpleado": 18
+        },
+        {
+            "IDCliente": 19,
+            "Tipo": "Reemplazo de Tapiz de Sillón",
+            "Fecha": "2024-10-28",
+            "Material": "Espuma Alta Densidad",
+            "Costo": 280000,
+            "IDEmpleado": 19
+        },
+        {
+            "IDCliente": 20,
+            "Tipo": "Recubrimiento de Cabeceras",
+            "Fecha": "2024-10-29",
+            "Material": "Cuero Vinílico",
+            "Costo": 320000,
+            "IDEmpleado": 20
+        }
+    ],
+    "invoices":[
+        {
+            "IDServicio": 1,
+            "Fecha": "2024-01-12",
+            "Total": 150000,
+            "MétodoPago": "Tarjeta de Crédito"
+        },
+        {
+            "IDServicio": 2,
+            "Fecha": "2024-02-05",
+            "Total": 200000,
+            "MétodoPago": "Efectivo"
+        },
+        {
+            "IDServicio": 3,
+            "Fecha": "2024-03-18",
+            "Total": 350000,
+            "MétodoPago": "Transferencia Bancaria"
+        },
+        {
+            "IDServicio": 4,
+            "Fecha": "2024-04-10",
+            "Total": 120000,
+            "MétodoPago": "Tarjeta de Débito"
+        },
+        {
+            "IDServicio": 5,
+            "Fecha": "2024-05-22",
+            "Total": 220000,
+            "MétodoPago": "Efectivo"
+        },
+        {
+            "IDServicio": 6,
+            "Fecha": "2024-06-13",
+            "Total": 180000,
+            "MétodoPago": "Tarjeta de Crédito"
+        },
+        {
+            "IDServicio": 7,
+            "Fecha": "2024-07-01",
+            "Total": 250000,
+            "MétodoPago": "Transferencia Bancaria"
+        },
+        {
+            "IDServicio": 8,
+            "Fecha": "2024-07-25",
+            "Total": 400000,
+            "MétodoPago": "Efectivo"
+        },
+        {
+            "IDServicio": 9,
+            "Fecha": "2024-08-14",
+            "Total": 90000,
+            "MétodoPago": "Tarjeta de Débito"
+        },
+        {
+            "IDServicio": 10,
+            "Fecha": "2024-09-09",
+            "Total": 130000,
+            "MétodoPago": "Tarjeta de Crédito"
+        },
+        {
+            "IDServicio": 11,
+            "Fecha": "2024-09-29",
+            "Total": 190000,
+            "MétodoPago": "Transferencia Bancaria"
+        },
+        {
+            "IDServicio": 12,
+            "Fecha": "2024-10-02",
+            "Total": 170000,
+            "MétodoPago": "Efectivo"
+        },
+        {
+            "IDServicio": 13,
+            "Fecha": "2024-10-11",
+            "Total": 140000,
+            "MétodoPago": "Tarjeta de Débito"
+        },
+        {
+            "IDServicio": 14,
+            "Fecha": "2024-10-17",
+            "Total": 230000,
+            "MétodoPago": "Tarjeta de Crédito"
+        },
+        {
+            "IDServicio": 15,
+            "Fecha": "2024-10-20",
+            "Total": 260000,
+            "MétodoPago": "Transferencia Bancaria"
+        },
+        {
+            "IDServicio": 16,
+            "Fecha": "2024-10-22",
+            "Total": 370000,
+            "MétodoPago": "Efectivo"
+        },
+        {
+            "IDServicio": 17,
+            "Fecha": "2024-10-24",
+            "Total": 210000,
+            "MétodoPago": "Tarjeta de Crédito"
+        },
+        {
+            "IDServicio": 18,
+            "Fecha": "2024-10-26",
+            "Total": 100000,
+            "MétodoPago": "Tarjeta de Débito"
+        },
+        {
+            "IDServicio": 19,
+            "Fecha": "2024-10-28",
+            "Total": 280000,
+            "MétodoPago": "Efectivo"
+        },
+        {
+            "IDServicio": 20,
+            "Fecha": "2024-10-29",
+            "Total": 320000,
+            "MétodoPago": "Transferencia Bancaria"
+        }
+    ]
+}
